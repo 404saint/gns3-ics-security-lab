@@ -15,4 +15,4 @@ The environment utilizes a dedicated, non-overlapping host-isolated subnet to el
 * **Host Bridge:** GNS3 Cloud Node (Bridged loopback for local administration)
 
 ### Network Topology Diagram
-<img src="assets/topology.png" alt="Topology Image">
+<img src="assets/topology-1.png" alt="Topology Image">
